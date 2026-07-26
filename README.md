@@ -23,7 +23,7 @@ A modern desktop application built with **Python, OpenCV, InsightFace, and Custo
 
 ### 🏠 Home Screen
 
-<!-- ![Home Screen](screenshots/home.png) -->
+![Home Screen](screenshots/home.png)
 
 ### 📷 Webcam Detection
 
