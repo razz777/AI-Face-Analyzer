@@ -21,19 +21,19 @@ A modern desktop application built with **Python, OpenCV, InsightFace, and Custo
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen.
+### 🏠 Home Screen
 
-![Home Screen](screenshots/home.png)
+<!-- ![Home Screen](screenshots/home.png) -->
 
-### 📷 Webcam Detection.
+### 📷 Webcam Detection
 
 ![Webcam Detection](screenshots/webcam.png)
 
-### 🖼 Image Detection.
+### 🖼 Image Detection
 
 ![Image Detection](screenshots/image.png)
 
-### 🎥 Video Detection.
+### 🎥 Video Detection
 
 ![Video Detection](screenshots/video.png)
 
