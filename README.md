@@ -27,15 +27,15 @@ A modern desktop application built with **Python, OpenCV, InsightFace, and Custo
 
 ### 📷 Webcam Detection
 
-![Webcam Detection](screenshots/webcam.png)
+![Webcam Detection](screenshots/Webcam.png)
 
 ### 🖼 Image Detection
 
-![Image Detection](screenshots/image.png)
+![Image Detection](screenshots/Image.png)
 
 ### 🎥 Video Detection
 
-![Video Detection](screenshots/video.png)
+![Video Detection](screenshots/Video.png)
 
 ---
 
